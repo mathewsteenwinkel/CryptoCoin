@@ -1,0 +1,10 @@
+
+
+.footer{
+  color: azure;
+  font-size: 25px;
+  font-family:monospace;
+  text-transform: capitalize;
+  display: flex;
+  justify-content: center;
+}

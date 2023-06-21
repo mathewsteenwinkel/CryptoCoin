@@ -1,0 +1,17 @@
+
+.title{
+  font-size: 75px;
+  color: azure;
+  display: flex;
+  font-family:monospace;
+
+
+}
+
+.body{
+  color: azure;
+  font-size: 25px;
+  font-family:monospace;
+  text-transform: capitalize;
+
+}
