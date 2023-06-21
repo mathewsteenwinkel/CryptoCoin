@@ -3,6 +3,9 @@
 A quick project to pull data from an API key and present it on a page.
 the API is from CoinGecko, data is pulled for a few coins and presented as either rising (green) or falling (red).
 
+<img width="505" alt="CryptoCoin" src="https://github.com/mathewsteenwinkel/CryptoCoin/assets/100092964/c9addff5-b9fa-4eec-8487-0eff76a4270f">
+
+
 
 
 ## Available Scripts
